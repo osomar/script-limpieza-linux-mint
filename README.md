@@ -36,3 +36,46 @@ Personalización del script:
 
 Correo: rjmarrero@gmail.com
 Portafolio: https://osomar.github.io
+
+---
+
+**In English:**
+
+# Cleaning and Updating Script for Linux Mint
+
+## What does this script do?
+
+This Bash script** automates the updating and cleaning of your Linux Mint system** with a single command. Ideal for users who want to keep their system fast, secure and free of unnecessary files.
+
+## Functionalities
+
+- Updates system repositories and packages (`apt').
+- Updates Flatpak and Snap packages.
+- Cleans APT cache.
+- Removes orphaned packages.
+- Optional: Delete the command history (only if you authorize it).
+
+## How to use it?
+
+# 1. Download the script
+wget https://raw.githubusercontent.com/osomar/script-limpieza-linux-mint/main/limpieza-sistema.sh
+
+# 2. Give execution permissions
+chmod +x limpieza-sistema.sh
+
+# 3. Execute
+./limpieza-sistema.sh
+
+    Why use this script?
+   
+a) Save time: You don't need to remember complex commands.
+b) Keep your system clean: Delete unnecessary temporary files and packages.
+c) Secure: Ask for confirmation before deleting the command history.
+
+Customization of the script:
+
+If you need a customized version for your company or for some specific need?
+Contact me without problems! If you wish, I can adapt the script to your requirements.
+
+Mail: rjmarrero@gmail.com
+Portfolio: https://osomar.github.io
