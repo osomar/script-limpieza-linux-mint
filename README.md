@@ -39,7 +39,9 @@ Portafolio: https://osomar.github.io
 
 ---
 
-**In English:**
+# In English:
+
+---
 
 # Cleaning and Updating Script for Linux Mint
 
